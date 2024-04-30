@@ -26,8 +26,6 @@ The `wordlist.txt` file contains sample passwords for testing purposes. You can 
 - This project is for educational purposes only. Do not use it for unauthorized access or malicious activities.
 - Hashing passwords alone is not secure; always use a combination of hashing and salting for password storage in real applications.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Credits
 - Created by [Your Name]
