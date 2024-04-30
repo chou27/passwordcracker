@@ -28,7 +28,7 @@ The `wordlist.txt` file contains sample passwords for testing purposes. You can 
 
 
 ## Credits
-- Created by [Your Name]
+- Created by Soumith Kumar Arja
 - Inspired by the concept of dictionary attacks and hashing algorithms.
 
 
